@@ -137,3 +137,8 @@ void MainWindow::on_pbDetener_clicked()
 
     }
 }
+
+void MainWindow::on_pbRestar_clicked()
+{
+
+}

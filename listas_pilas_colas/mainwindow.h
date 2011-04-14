@@ -35,6 +35,7 @@ private:
 
 
 private slots:
+    void on_pbRestar_clicked();
     void on_pbDetener_clicked();
     void on_pbIniciar_clicked();
     void on_pbValidar_clicked();

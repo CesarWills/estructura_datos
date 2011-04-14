@@ -1,9 +1,4 @@
 
-
-
-
-
-
 #ifndef ENTEROGRANDE_H
 #define ENTEROGRANDE_H
 #include "lista_enteros.h"
