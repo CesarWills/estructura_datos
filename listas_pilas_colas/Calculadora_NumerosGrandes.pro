@@ -25,5 +25,4 @@ HEADERS  += mainwindow.h \
 
 FORMS    += mainwindow.ui
 
-OTHER_FILES += \
-    texto.txt
+OTHER_FILES +=
