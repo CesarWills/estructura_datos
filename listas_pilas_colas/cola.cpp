@@ -1,4 +1,5 @@
 #include "cola.h"
+//Este esn un comentario
 
 Cola::Cola()
 {

@@ -24,3 +24,6 @@ HEADERS  += mainwindow.h \
     cola.h
 
 FORMS    += mainwindow.ui
+
+OTHER_FILES += \
+    texto.txt
